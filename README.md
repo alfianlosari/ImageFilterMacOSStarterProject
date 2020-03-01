@@ -1,5 +1,5 @@
 # SwiftUI Image Filter macOS App Starter Proect
-Starte Project for GPUImage2 based image filtering macOS SwiftUI App. Follow the tutorial at ![alfianlosari](https://alfianlosari.com "Building SwiftUI Image Filter macOS app")
+Starter Project for GPUImage2 based image filtering macOS SwiftUI App. Follow the tutorial at ![alfianlosari](https://www.alfianlosari.com/posts/building-image-filter-macos-app-with-swiftui/ "Building SwiftUI Image Filter macOS app tutorial")
 
 ![Alt text](./promo.jpg?raw=true "Image Filter macOS App")
 
